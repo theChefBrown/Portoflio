@@ -1,2 +1,2 @@
-# Portoflio
-I am a Frontend Developer
+## ABOUT ME
+Recent Computer Engineering graduate from Transilvania University, Brasov, seeking a full-time web development role. Skilled in Front End Development with expertise in Shopify Liquid, Wordpress, CSS, Bootstrap, HTML5, JavaScript, jQuery, and JSON. Proficient in Git for version control. Aspiring Full Stack Developer eager to contribute to innovative projects. Ready to leverage my skills and passion for technology in a dynamic team environment.
